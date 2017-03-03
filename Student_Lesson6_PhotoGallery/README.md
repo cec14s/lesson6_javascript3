@@ -13,8 +13,7 @@ Codi Cain
 The following project is to use properties of JavaScript to create a dynamic photo gallery in which the user is able to scroll through photographs and show more.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cec14s.github.io/lesson6_javascript3/Student_Lesson6_PhotoGallery/index.html
 
 ### Lessons Learned in the Assignment:
 1. To be able to access CSS and other element content for editing and changes to the page.
